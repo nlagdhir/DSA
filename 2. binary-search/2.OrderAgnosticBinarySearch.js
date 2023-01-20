@@ -32,6 +32,6 @@ const binarySearch = (arr, target) => {
 };
 
 const arr = [-18, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 45, 89];
-//const arr = [89, 45, 22, 18, 16, 15, 4, 3, 2, 0, -4, -12, -18];
+//const arr = [89, 45, 22, 18, 16, 15, 4, 3, 2, 0, -4, -12, -18]; 
 const target = -4;
 console.log(binarySearch(arr, target));
