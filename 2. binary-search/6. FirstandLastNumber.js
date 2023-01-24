@@ -2,11 +2,11 @@
 
 const FirstAndLastNumber = (nums, target) => {
 
-    const first =nums.findIndex(element => element === target);
-    const last = nums.lastIndexOf(target); 
+    // const first =nums.findIndex(element => element === target);
+    // const last = nums.lastIndexOf(target); 
     
 
-    return [first, last]; 
+    // return [first, last]; 
 
   if (nums.length === 0) return false;
 
